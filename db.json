@@ -1,0 +1,22 @@
+{
+  "utilizadores": [
+    {
+      "id": 1,
+      "name": "Joana Gomes",
+      "address": "Praia",
+      "email": "joana@gmail.com"
+    },
+    {
+      "name": "Maria Mendes",
+      "address": "Tarrafal",
+      "email": "maria@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "José Fereira",
+      "address": "Santa Cruz",
+      "email": "jose@hotmail.com",
+      "id": 3
+    }
+  ]
+}
