@@ -55,7 +55,7 @@ const Home = () => {
     <div className='alert-success '>
       <h3>TAREFA PT: Um simples CRUD com reactjs-jsonServer para registar utilizadores</h3>
     <h6>TASK EN: A simple CRUD with reactjs-jsonServer for users register</h6>
-        <h6>TASK EN: A simple CRUD with reactjs-jsonServer for users register</h6>
+ 
         <h1 className='alert-primary'>KRITEK.eu</h1>
     </div>
   
